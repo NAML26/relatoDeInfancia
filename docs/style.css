@@ -1,0 +1,47 @@
+div.a {
+  text-align: center;
+  text-wrap: balance;
+  color: aliceblue;
+  background-image: url("assets/Wallpaper.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  min-height: 100vh;
+  margin: 0;
+  padding: 20px;
+}
+
+header {
+  font-size: 100px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+
+main {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: larger;
+  text-align: justify;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+section img {
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 10px;
+  width: 200px;
+  height: 200px;
+}
+
+p {
+  text-align: justify;
+  background-color: rgba(67, 63, 63, 0.377);
+  padding: 10px;
+  border-radius: 5px;
+  color: aliceblue;
+}
+section a img {
+  max-width: 100px;
+  height: auto;
+  display: block;
+}
